@@ -49,7 +49,17 @@ __Step 3: Attach the top of the frame:__
 1. Line up the threaded holes in the GoRail with the holes in the corner of the top of the frame.
 2. Fix on with the chosen screws.
 
+__Step 4: Attach the wheels:__
 
+Put the wheels on last, otherwise they get in the way when you're trying to screw on the other stuff.
+
+<ins>parts list</ins>
+* Four wheels. I'm using the Wasteland Wheel, 144mm Diameter, 52mm Width (SKU: 3616-0014-0144)
+* 16 X 11mm M4 screws (can also use 10mm).
+* 4 X washers
+
+<ins>Assembly of wheels</ins>
+1. Screw onto hyperhubs with 11mm screws and washers.
 
 
 
