@@ -10,7 +10,6 @@
 * 16 X M4 washers
 * 4 X flanged ball bearing, 8mm REX ID x 14mm OD, 5mm thickness (SKU: 1611-0514-4008). Note ID is inner diameter and OD is outer diameter.
 * 4 X 1320 Series hyper hub, 8mm REX Bore (SKU: 1310-0016-4008)
-* 4 X Threaded Steel L-Bracket, 3 hole (SKU: 1147-0001-0003). Note there are four in each pack, so once pack.
 * 3 X 1116 Series Grid Plate, 29 x 53 Hole, 232 x 424mm (SKU: 1116-0232-0424)
 * 24 X 6mm screws (can also use 8mm if you run out, but 6mm is preferred).
 * 12 X Threaded Steel L-Bracket, 3 hole (SKU: 1147-0001-0003). Note there are four in each pack, so three packs.
