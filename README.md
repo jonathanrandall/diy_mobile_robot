@@ -37,7 +37,7 @@ Note: robot upside down in picutre, so base is at the top. <br/>
 6. Attach the L-Brackets, with the 6mm M4 screws, to each of the U-Channels that the motors are on. They should be attached off centre becasue this is where you are going to mount the grid plate.<br/>
 ![L brackets attach](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/photos/IMG_9042.JPEG?raw=true)
 7. Mount the grid plate on the L-Brackets with the 6mm M4 screws.<br/>
-![grid plate attach](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/photos/IMG_9051.JPEG?raw=true)
+![grid plate attach](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/photos/IMG_9068.JPEG?raw=true)
 
 __Step 2: Build the top of the frame:__
 
