@@ -6,6 +6,8 @@ __pycache__/
 *ssid*
 */src/ssid*
 
+photos/*.py
+
 # C extensions
 *.so
 
