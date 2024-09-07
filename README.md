@@ -34,8 +34,10 @@ Note: robot upside down in picutre, so base is at the top. <br/>
 ![bearing attach](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/photos/IMG_9021.JPEG?raw=true)
 5. Attach the goRail to the corners of the base with the 12mm M4 screws (or 10mm is ok as well), so they are standing verticle. They have threaded holes, which will line up with the holes on the U-Channel. When you attach a goRail, do not tighten the screws until all four have been placed, otherwise you risk cross-threading. I'm using 624mm goRail. You can use up to 1200mm. You can adjust the height of the goRail without changing anything else. If you adjust the dimensions of the U-Channel, the grid plates will also need to be adjusted.<br/>
 ![gorail attach](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/photos/IMG_9032.JPEG?raw=true) ![gorail](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/photos/IMG_9039.JPEG?raw=true)
-6. Attach the L-Brackets, with the 6mm M4 screws, to each of the U-Channels that the motors are on. They should be attached off centre becasue this is where you are going to mount the grid plate.
-7. Mount the grid plate on the L-Brackets with the 6mm M4 screws.
+6. Attach the L-Brackets, with the 6mm M4 screws, to each of the U-Channels that the motors are on. They should be attached off centre becasue this is where you are going to mount the grid plate.<br/>
+![L brackets attach](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/photos/IMG_9042.JPEG?raw=true)
+7. Mount the grid plate on the L-Brackets with the 6mm M4 screws.<br/>
+![grid plate attach](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/photos/IMG_9051.JPEG?raw=true)
 
 __Step 2: Build the top of the frame:__
 
