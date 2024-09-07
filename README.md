@@ -24,7 +24,8 @@ Note: robot upside down in picutre, so base is at the top. <br/>
 * 4 X 1109 Series goRail, 624mm lenghth (SKU: 1109-0024-0624). 
 
 <ins>Assembly of base</ins>
-1. Attach the quadblocks to the end of the shorter U-channels (432mm) with the 11mm screws. Mounting the quadblocks on the shorter channels will result in the base being a square. Each channel is 48mm wide, so the base will be (432 +48 +48) = 528mm. Note, you can use different sized U-Channels, depending on what you need. I've chosen theses sizes to bring it into line with the Stanford Mobile Aloha robot. This build is on the wider end of what I would normally do.
+1. Attach the quadblocks to the end of the shorter U-channels (432mm) with the 11mm screws. Mounting the quadblocks on the shorter channels will result in the base being a square. Each channel is 48mm wide, so the base will be (432 +48 +48) = 528mm. Note, you can use different sized U-Channels, depending on what you need. I've chosen theses sizes to bring it into line with the Stanford Mobile Aloha robot. This build is on the wider end of what I would normally do.<br/> 
+![Quad Blocks](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/photos/IMG_9015.JPEG?raw=true)
 2. Attach the two 432mm at right angles with the 528mm channels, using the 8mm screws to connect, to make a square shape (see picture).
 3. Attach the motors to the side of the frame. You can 10mm to 12mm screws for this. I've attached mine to the fourth hole down. There are lots of diagrams on the gobilda page for attaching the motors to channel. Make sure the motor's power wires and encoder plug are facing upwards, so they are easy to access from the top. 
 4. Place the bearing,spacer and hyperhub on the end of the motor shaft and push down so that everything is nice and snug. Tighten the pinch screws on the hyperhub. Don't place the wheels on yet. They will get in the way.
