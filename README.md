@@ -59,7 +59,8 @@ __Step 3: Attach the top of the frame:__
 
 <ins>Finish assembly</ins?
 1. Line up the threaded holes in the GoRail with the holes in the corner of the top of the frame.
-2. Fix on with the chosen screws.
+2. Fix on with the chosen screws.<br/>
+![channels and motor](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/photos/IMG_9054.JPEG?raw=true)
 
 __Step 4: Attach the wheels:__
 
@@ -71,7 +72,8 @@ Put the wheels on last, otherwise they get in the way when you're trying to scre
 * 4 X washers
 
 <ins>Assembly of wheels</ins>
-1. Screw onto hyperhubs with 11mm screws and washers.
+1. Screw onto hyperhubs with 11mm screws and washers.<br/>
+![channels and motor](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/photos/IMG_9071.JPEG?raw=true)
 
 
 
