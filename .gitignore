@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+*ssid*
+*/src/ssid*
+
 # C extensions
 *.so
 
