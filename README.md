@@ -28,8 +28,10 @@ Note: robot upside down in picutre, so base is at the top. <br/>
 ![Quad Blocks](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/photos/IMG_9015.JPEG?raw=true)
 2. Attach the two 432mm at right angles with the 528mm channels, using the 8mm screws to connect, to make a square shape (see picture).<br/>
 ![channels and motor](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/photos/IMG_9023.JPEG?raw=true)
-3. Attach the motors to the side of the frame. You can 10mm to 12mm screws for this. I've attached mine to the fourth hole down. There are lots of diagrams on the gobilda page for attaching the motors to channel. Make sure the motor's power wires and encoder plug are facing upwards, so they are easy to access from the top. 
-4. Place the bearing,spacer and hyperhub on the end of the motor shaft and push down so that everything is nice and snug. Tighten the pinch screws on the hyperhub. Don't place the wheels on yet. They will get in the way.
+3. Attach the motors to the side of the frame. You can 10mm to 12mm screws for this. I've attached mine to the fourth hole down. There are lots of diagrams on the gobilda page for attaching the motors to channel. Make sure the motor's power wires and encoder plug are facing upwards, so they are easy to access from the top. <br/>
+![motor attach](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/photos/IMG_9020.JPEG?raw=true)
+4. Place the bearing,spacer and hyperhub on the end of the motor shaft and push down so that everything is nice and snug. Tighten the pinch screws on the hyperhub. Don't place the wheels on yet. They will get in the way.<br/>
+![bearing attach](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/photos/IMG_9021.JPEG?raw=true)
 5. Attach the goRail to the corners of the base with the 12mm M4 screws (or 10mm is ok as well), so they are standing verticle. They have threaded holes, which will line up with the holes on the U-Channel. When you attach a goRail, do not tighten the screws until all four have been placed, otherwise you risk cross-threading. I'm using 624mm goRail. You can use up to 1200mm. You can adjust the height of the goRail without changing anything else. If you adjust the dimensions of the U-Channel, the grid plates will also need to be adjusted.
 6. Attach the L-Brackets, with the 6mm M4 screws, to each of the U-Channels that the motors are on. They should be attached off centre becasue this is where you are going to mount the grid plate.
 7. Mount the grid plate on the L-Brackets with the 6mm M4 screws.
