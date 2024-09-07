@@ -50,7 +50,7 @@ __Step 2: Build the top of the frame:__
 <ins>Assembly of top of the frame</ins>
 1. Attach the 4 L-Brackets to the edge of each of the U-Channels, so that the U-Channel is like an upside down U, and the bracket is flush with the top (see picture). Makes sure the L-Brackets are spaced, so that you can attach the grid plates. Don't put any in the middle of the channel.
 2. Once you have all L-brackets attached line up the two U-channels with the brackets facing each other and put the grid plates on, so that the two U-Channels are held together with the grid plates. Make sure the grid plates are attached along the short edge (see pictures). So the long edge is connecting the two U-Channels. Everything is measured out so it fits perfectly on the top of the robot.<br/>
-![top grid](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/photos/IMG_9049.JPEG?raw=true) ![top grid 2](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/photos/IMG_9023.JPEG?raw=true)
+![top grid](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/photos/IMG_9049.JPEG?raw=true) ![top grid 2](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/photos/IMG_9050.JPEG?raw=true)
 
 __Step 3: Attach the top of the frame:__
 
