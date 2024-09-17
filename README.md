@@ -7,7 +7,7 @@ The M4 socket head screws require a 3mm drive size. It is recommended to get the
 
 __Step 1: Build the base of the frame:__<br/>
 Note: robot upside down in picutre, so base is at the top. <br/>
-![robot frame](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/photos/IMG_9070.JPEG?raw=true)<br/>
+![robot frame](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/photos/IMG_9070.jpeg)<br/>
 <ins>parts list for base</ins>
 * 2 X 432mm 1120 Series U-Channel (SKU: 1120-0017-0432)
 * 2 X 528mm 1120 Series U-Chaneel (SKU: 1120-0021-0528)
