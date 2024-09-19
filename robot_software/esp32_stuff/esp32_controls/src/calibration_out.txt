@@ -1,0 +1,520 @@
+Go to: http://192.168.1.211
+Motor: 0, pulses: 315, dist: 10.00
+Motor: 1, pulses: 318, dist: 10.09
+Motor: 2, pulses: 301, dist: 9.56
+Motor: 3, pulses: 321, dist: 10.19
+Motor: 0, pulses: 647, dist: 20.54
+Motor: 1, pulses: 659, dist: 20.92
+Motor: 2, pulses: 622, dist: 19.75
+Motor: 3, pulses: 661, dist: 20.98
+Motor: 0, pulses: 980, dist: 31.11
+Motor: 1, pulses: 1000, dist: 31.74
+Motor: 2, pulses: 943, dist: 29.93
+Motor: 3, pulses: 1002, dist: 31.81
+Motor: 0, pulses: 1313, dist: 41.68
+Motor: 1, pulses: 1342, dist: 42.60
+Motor: 2, pulses: 1264, dist: 40.12
+Motor: 3, pulses: 1343, dist: 42.63
+Motor: 0, pulses: 1646, dist: 52.25
+Motor: 1, pulses: 1684, dist: 53.46
+Motor: 2, pulses: 1585, dist: 50.31
+Motor: 3, pulses: 1685, dist: 53.49
+Motor: 0, pulses: 1979, dist: 62.82
+Motor: 1, pulses: 2025, dist: 64.28
+Motor: 2, pulses: 1906, dist: 60.50
+Motor: 3, pulses: 2026, dist: 64.31
+motor: 0, speed: 43.17, init_spd: 140, error: 73
+motor: 0, speed: 63.49, init_spd: 213, error: 46
+speed maximised
+motor: 0, speed: 81.27, init_spd: 255, error: 8
+speed maximised
+motor: 0, speed: 86.98, init_spd: 255, error: -11
+motor: 0, speed: 83.81, init_spd: 244, error: -9
+motor: 0, speed: 80.63, init_spd: 235, error: -3
+motor: 0, speed: 78.73, init_spd: 232, error: 1
+motor: 0, speed: 78.73, init_spd: 233, error: 2
+motor: 0, speed: 78.73, init_spd: 235, error: 2
+motor: 0, speed: 80.00, init_spd: 237, error: 0
+_________________________________
+_________________________________
+motor: 0, point5_spd: 237
+_________________________________
+_________________________________
+motor: 1, speed: 30.47, init_spd: 140, error: 99
+motor: 1, speed: 68.57, init_spd: 239, error: 46
+speed maximised
+motor: 1, speed: 85.07, init_spd: 255, error: 0
+motor: 1, speed: 88.25, init_spd: 255, error: -15
+motor: 1, speed: 85.71, init_spd: 240, error: -13
+motor: 1, speed: 81.27, init_spd: 227, error: -5
+motor: 1, speed: 77.46, init_spd: 222, error: 3
+motor: 1, speed: 77.46, init_spd: 225, error: 5
+motor: 1, speed: 78.73, init_spd: 230, error: 3
+motor: 1, speed: 80.00, init_spd: 233, error: 0
+_________________________________
+_________________________________
+motor: 1, point5_spd: 233
+_________________________________
+_________________________________
+motor: 2, speed: 30.47, init_spd: 140, error: 99
+motor: 2, speed: 66.66, init_spd: 239, error: 49
+speed maximised
+motor: 2, speed: 81.27, init_spd: 255, error: 6
+speed maximised
+motor: 2, speed: 84.44, init_spd: 255, error: -7
+motor: 2, speed: 83.17, init_spd: 248, error: -7
+motor: 2, speed: 80.63, init_spd: 241, error: -2
+motor: 2, speed: 79.36, init_spd: 239, error: 0
+motor: 2, speed: 78.73, init_spd: 239, error: 2
+motor: 2, speed: 78.73, init_spd: 241, error: 2
+motor: 2, speed: 80.00, init_spd: 243, error: 0
+_________________________________
+_________________________________
+motor: 2, point5_spd: 243
+_________________________________
+_________________________________
+motor: 3, speed: 31.74, init_spd: 140, error: 96
+motor: 3, speed: 69.20, init_spd: 236, error: 45
+speed maximised
+motor: 3, speed: 85.71, init_spd: 255, error: -2
+motor: 3, speed: 87.61, init_spd: 253, error: -14
+motor: 3, speed: 85.07, init_spd: 239, error: -12
+motor: 3, speed: 80.63, init_spd: 227, error: -3
+motor: 3, speed: 78.09, init_spd: 224, error: 2
+motor: 3, speed: 78.09, init_spd: 226, error: 4
+motor: 3, speed: 79.36, init_spd: 230, error: 2
+motor: 3, speed: 80.00, init_spd: 232, error: 0
+_________________________________
+_________________________________
+motor: 3, point5_spd: 232
+_________________________________
+_________________________________
+motor: 0, speed: 32.38, init_spd: 140, error: 75
+motor: 0, speed: 63.49, init_spd: 215, error: 32
+motor: 0, speed: 79.36, init_spd: 247, error: -10
+motor: 0, speed: 81.27, init_spd: 237, error: -22
+motor: 0, speed: 74.92, init_spd: 215, error: -14
+motor: 0, speed: 69.20, init_spd: 201, error: -1
+motor: 0, speed: 67.30, init_spd: 200, error: 4
+motor: 0, speed: 68.57, init_spd: 204, error: 3
+motor: 0, speed: 69.84, init_spd: 207, error: 1
+motor: 0, speed: 69.84, init_spd: 208, error: 0
+motor: 0, speed: 69.84, init_spd: 208, error: 0
+_________________________________
+_________________________________
+motor: 0, point5_spd: 208
+_________________________________
+_________________________________
+motor: 1, speed: 30.47, init_spd: 140, error: 79
+motor: 1, speed: 64.12, init_spd: 219, error: 32
+motor: 1, speed: 81.90, init_spd: 251, error: -14
+motor: 1, speed: 83.81, init_spd: 237, error: -27
+motor: 1, speed: 77.46, init_spd: 210, error: -19
+motor: 1, speed: 69.84, init_spd: 191, error: -4
+motor: 1, speed: 65.39, init_spd: 187, error: 7
+motor: 1, speed: 66.03, init_spd: 194, error: 8
+motor: 1, speed: 68.57, init_spd: 202, error: 4
+motor: 1, speed: 70.47, init_spd: 206, error: 0
+motor: 1, speed: 71.11, init_spd: 206, error: -1
+_________________________________
+_________________________________
+motor: 1, point5_spd: 205
+_________________________________
+_________________________________
+motor: 2, speed: 31.11, init_spd: 140, error: 77
+motor: 2, speed: 61.58, init_spd: 217, error: 35
+motor: 2, speed: 78.09, init_spd: 252, error: -7
+motor: 2, speed: 81.90, init_spd: 245, error: -22
+motor: 2, speed: 76.82, init_spd: 223, error: -17
+motor: 2, speed: 70.47, init_spd: 206, error: -4
+motor: 2, speed: 67.30, init_spd: 202, error: 3
+motor: 2, speed: 67.30, init_spd: 205, error: 5
+motor: 2, speed: 68.57, init_spd: 210, error: 3
+motor: 2, speed: 69.84, init_spd: 213, error: 1
+motor: 2, speed: 70.47, init_spd: 214, error: 0
+_________________________________
+_________________________________
+motor: 2, point5_spd: 214
+_________________________________
+_________________________________
+motor: 3, speed: 31.74, init_spd: 140, error: 76
+motor: 3, speed: 64.76, init_spd: 216, error: 30
+motor: 3, speed: 80.63, init_spd: 246, error: -12
+motor: 3, speed: 82.54, init_spd: 234, error: -25
+motor: 3, speed: 76.19, init_spd: 209, error: -16
+motor: 3, speed: 69.20, init_spd: 193, error: -2
+motor: 3, speed: 66.66, init_spd: 191, error: 5
+motor: 3, speed: 67.30, init_spd: 196, error: 6
+motor: 3, speed: 69.20, init_spd: 202, error: 2
+motor: 3, speed: 69.84, init_spd: 204, error: 0
+motor: 3, speed: 70.47, init_spd: 204, error: 0
+_________________________________
+_________________________________
+motor: 3, point5_spd: 204
+_________________________________
+_________________________________
+motor: 0, speed: 31.74, init_spd: 140, error: 56
+motor: 0, speed: 59.04, init_spd: 196, error: 18
+motor: 0, speed: 69.84, init_spd: 214, error: -14
+motor: 0, speed: 68.57, init_spd: 200, error: -18
+motor: 0, speed: 62.85, init_spd: 182, error: -9
+motor: 0, speed: 59.04, init_spd: 173, error: 0
+motor: 0, speed: 57.77, init_spd: 173, error: 3
+motor: 0, speed: 58.41, init_spd: 176, error: 3
+motor: 0, speed: 59.68, init_spd: 179, error: 1
+motor: 0, speed: 60.95, init_spd: 180, error: -1
+motor: 0, speed: 60.31, init_spd: 179, error: -1
+_________________________________
+_________________________________
+motor: 0, point5_spd: 178
+_________________________________
+_________________________________
+motor: 1, speed: 30.47, init_spd: 140, error: 59
+motor: 1, speed: 59.04, init_spd: 199, error: 19
+motor: 1, speed: 71.11, init_spd: 218, error: -16
+motor: 1, speed: 71.74, init_spd: 202, error: -24
+motor: 1, speed: 65.39, init_spd: 178, error: -15
+motor: 1, speed: 58.41, init_spd: 163, error: 0
+motor: 1, speed: 56.51, init_spd: 163, error: 6
+motor: 1, speed: 57.77, init_spd: 169, error: 5
+motor: 1, speed: 59.04, init_spd: 174, error: 2
+motor: 1, speed: 60.31, init_spd: 176, error: 0
+motor: 1, speed: 60.95, init_spd: 176, error: -1
+_________________________________
+_________________________________
+motor: 1, point5_spd: 175
+_________________________________
+_________________________________
+motor: 2, speed: 30.47, init_spd: 140, error: 59
+motor: 2, speed: 57.77, init_spd: 199, error: 21
+motor: 2, speed: 69.20, init_spd: 220, error: -12
+motor: 2, speed: 69.84, init_spd: 208, error: -20
+motor: 2, speed: 64.76, init_spd: 188, error: -13
+motor: 2, speed: 59.68, init_spd: 175, error: -2
+motor: 2, speed: 57.14, init_spd: 173, error: 4
+motor: 2, speed: 57.77, init_spd: 177, error: 5
+motor: 2, speed: 59.04, init_spd: 182, error: 2
+motor: 2, speed: 60.31, init_spd: 184, error: 0
+motor: 2, speed: 60.31, init_spd: 184, error: 0
+_________________________________
+_________________________________
+motor: 2, point5_spd: 184
+_________________________________
+_________________________________
+motor: 3, speed: 31.74, init_spd: 140, error: 56
+motor: 3, speed: 59.68, init_spd: 196, error: 17
+motor: 3, speed: 71.11, init_spd: 213, error: -16
+motor: 3, speed: 69.84, init_spd: 197, error: -21
+motor: 3, speed: 63.49, init_spd: 176, error: -11
+motor: 3, speed: 57.77, init_spd: 165, error: 1
+motor: 3, speed: 57.14, init_spd: 166, error: 5
+motor: 3, speed: 58.41, init_spd: 171, error: 4
+motor: 3, speed: 59.68, init_spd: 175, error: 1
+motor: 3, speed: 60.31, init_spd: 176, error: 0
+motor: 3, speed: 60.95, init_spd: 176, error: -1
+_________________________________
+_________________________________
+motor: 3, point5_spd: 175
+_________________________________
+_________________________________
+motor: 0, speed: 31.74, init_spd: 140, error: 36
+motor: 0, speed: 54.60, init_spd: 176, error: 4
+motor: 0, speed: 59.68, init_spd: 180, error: -17
+motor: 0, speed: 56.51, init_spd: 163, error: -15
+motor: 0, speed: 51.43, init_spd: 148, error: -6
+motor: 0, speed: 48.25, init_spd: 142, error: 1
+motor: 0, speed: 48.25, init_spd: 143, error: 3
+motor: 0, speed: 48.25, init_spd: 146, error: 3
+motor: 0, speed: 49.52, init_spd: 149, error: 1
+motor: 0, speed: 50.16, init_spd: 150, error: 0
+motor: 0, speed: 50.16, init_spd: 150, error: 0
+_________________________________
+_________________________________
+motor: 0, point5_spd: 150
+_________________________________
+_________________________________
+motor: 1, speed: 30.47, init_spd: 140, error: 39
+motor: 1, speed: 54.60, init_spd: 179, error: 4
+motor: 1, speed: 61.58, init_spd: 183, error: -20
+motor: 1, speed: 59.04, init_spd: 163, error: -20
+motor: 1, speed: 52.70, init_spd: 143, error: -9
+motor: 1, speed: 47.62, init_spd: 134, error: 1
+motor: 1, speed: 46.35, init_spd: 135, error: 6
+motor: 1, speed: 47.62, init_spd: 141, error: 5
+motor: 1, speed: 48.89, init_spd: 146, error: 3
+motor: 1, speed: 50.79, init_spd: 149, error: 0
+motor: 1, speed: 50.79, init_spd: 149, error: -1
+_________________________________
+_________________________________
+motor: 1, point5_spd: 148
+_________________________________
+_________________________________
+motor: 2, speed: 29.84, init_spd: 140, error: 40
+motor: 2, speed: 53.33, init_spd: 180, error: 7
+motor: 2, speed: 60.31, init_spd: 187, error: -17
+motor: 2, speed: 58.41, init_spd: 170, error: -18
+motor: 2, speed: 52.70, init_spd: 152, error: -9
+motor: 2, speed: 48.25, init_spd: 143, error: 1
+motor: 2, speed: 46.98, init_spd: 144, error: 5
+motor: 2, speed: 47.62, init_spd: 149, error: 5
+motor: 2, speed: 50.16, init_spd: 154, error: 1
+motor: 2, speed: 50.79, init_spd: 155, error: -1
+motor: 2, speed: 50.79, init_spd: 154, error: -1
+_________________________________
+_________________________________
+motor: 2, point5_spd: 153
+_________________________________
+_________________________________
+motor: 3, speed: 31.74, init_spd: 140, error: 36
+motor: 3, speed: 55.24, init_spd: 176, error: 3
+motor: 3, speed: 60.95, init_spd: 179, error: -19
+motor: 3, speed: 57.14, init_spd: 160, error: -17
+motor: 3, speed: 51.43, init_spd: 143, error: -6
+motor: 3, speed: 47.62, init_spd: 137, error: 2
+motor: 3, speed: 47.62, init_spd: 139, error: 5
+motor: 3, speed: 48.89, init_spd: 144, error: 3
+motor: 3, speed: 50.16, init_spd: 147, error: 0
+motor: 3, speed: 50.16, init_spd: 147, error: 0
+motor: 3, speed: 50.16, init_spd: 147, error: 0
+_________________________________
+_________________________________
+motor: 3, point5_spd: 147
+_________________________________
+_________________________________
+motor: 0, speed: 32.38, init_spd: 140, error: 15
+motor: 0, speed: 49.52, init_spd: 155, error: -9
+motor: 0, speed: 49.52, init_spd: 146, error: -19
+motor: 0, speed: 44.44, init_spd: 127, error: -12
+motor: 0, speed: 39.36, init_spd: 115, error: -1
+motor: 0, speed: 38.09, init_spd: 114, error: 3
+motor: 0, speed: 38.73, init_spd: 117, error: 3
+motor: 0, speed: 40.00, init_spd: 120, error: 0
+_________________________________
+_________________________________
+motor: 0, point5_spd: 120
+_________________________________
+_________________________________
+motor: 1, speed: 30.47, init_spd: 140, error: 19
+motor: 1, speed: 50.16, init_spd: 159, error: -9
+motor: 1, speed: 52.06, init_spd: 150, error: -24
+motor: 1, speed: 46.98, init_spd: 126, error: -17
+motor: 1, speed: 40.00, init_spd: 109, error: -4
+_________________________________
+_________________________________
+motor: 1, point5_spd: 105
+_________________________________
+_________________________________
+motor: 2, speed: 31.11, init_spd: 140, error: 17
+motor: 2, speed: 48.25, init_spd: 157, error: -7
+motor: 2, speed: 49.52, init_spd: 150, error: -19
+motor: 2, speed: 45.08, init_spd: 131, error: -13
+motor: 2, speed: 40.00, init_spd: 118, error: -3
+_________________________________
+_________________________________
+motor: 2, point5_spd: 115
+_________________________________
+_________________________________
+motor: 3, speed: 31.74, init_spd: 140, error: 16
+motor: 3, speed: 50.79, init_spd: 156, error: -11
+motor: 3, speed: 50.79, init_spd: 145, error: -22
+motor: 3, speed: 45.08, init_spd: 123, error: -14
+motor: 3, speed: 38.73, init_spd: 109, error: -1
+motor: 3, speed: 36.82, init_spd: 108, error: 5
+motor: 3, speed: 37.46, init_spd: 113, error: 5
+motor: 3, speed: 40.00, init_spd: 118, error: 1
+_________________________________
+_________________________________
+motor: 3, point5_spd: 119
+_________________________________
+_________________________________
+motor: 0, speed: 32.38, init_spd: 140, error: -4
+motor: 0, speed: 45.08, init_spd: 136, error: -24
+motor: 0, speed: 39.36, init_spd: 112, error: -23
+motor: 0, speed: 31.74, init_spd: 89, error: -8
+motor: 0, speed: 26.67, init_spd: 81, error: 3
+motor: 0, speed: 27.30, init_spd: 84, error: 6
+motor: 0, speed: 28.57, init_spd: 90, error: 3
+motor: 0, speed: 30.47, init_spd: 93, error: 0
+motor: 0, speed: 31.11, init_spd: 93, error: -1
+motor: 0, speed: 29.84, init_spd: 92, error: 0
+motor: 0, speed: 29.84, init_spd: 92, error: 0
+_________________________________
+_________________________________
+motor: 0, point5_spd: 92
+_________________________________
+_________________________________
+motor: 1, speed: 30.47, init_spd: 140, error: 0
+motor: 1, speed: 46.35, init_spd: 140, error: -24
+motor: 1, speed: 42.54, init_spd: 116, error: -28
+motor: 1, speed: 34.28, init_spd: 88, error: -13
+motor: 1, speed: 27.30, init_spd: 75, error: 1
+motor: 1, speed: 25.40, init_spd: 76, error: 8
+motor: 1, speed: 26.67, init_spd: 84, error: 7
+motor: 1, speed: 29.20, init_spd: 91, error: 3
+motor: 1, speed: 31.11, init_spd: 94, error: -1
+motor: 1, speed: 31.11, init_spd: 93, error: -2
+motor: 1, speed: 31.11, init_spd: 91, error: -2
+_________________________________
+_________________________________
+motor: 1, point5_spd: 89
+_________________________________
+_________________________________
+motor: 2, speed: 29.84, init_spd: 140, error: 0
+motor: 2, speed: 44.44, init_spd: 140, error: -21
+motor: 2, speed: 41.27, init_spd: 119, error: -25
+motor: 2, speed: 33.01, init_spd: 94, error: -11
+motor: 2, speed: 27.94, init_spd: 83, error: 1
+motor: 2, speed: 26.67, init_spd: 84, error: 6
+motor: 2, speed: 27.94, init_spd: 90, error: 5
+motor: 2, speed: 29.20, init_spd: 95, error: 2
+motor: 2, speed: 31.11, init_spd: 97, error: -1
+motor: 2, speed: 30.47, init_spd: 96, error: -1
+motor: 2, speed: 30.47, init_spd: 95, error: 0
+_________________________________
+_________________________________
+motor: 2, point5_spd: 95
+_________________________________
+_________________________________
+motor: 3, speed: 31.74, init_spd: 140, error: -3
+motor: 3, speed: 46.35, init_spd: 137, error: -25
+motor: 3, speed: 40.63, init_spd: 112, error: -25
+motor: 3, speed: 32.38, init_spd: 87, error: -9
+motor: 3, speed: 27.30, init_spd: 78, error: 2
+motor: 3, speed: 26.67, init_spd: 80, error: 6
+motor: 3, speed: 27.94, init_spd: 86, error: 5
+motor: 3, speed: 29.84, init_spd: 91, error: 1
+motor: 3, speed: 30.47, init_spd: 92, error: 0
+motor: 3, speed: 31.11, init_spd: 92, error: -1
+motor: 3, speed: 30.47, init_spd: 91, error: -1
+_________________________________
+_________________________________
+motor: 3, point5_spd: 90
+_________________________________
+_________________________________
+motor: 0, speed: 31.74, init_spd: 140, error: -23
+motor: 0, speed: 40.63, init_spd: 117, error: -37
+motor: 0, speed: 29.84, init_spd: 80, error: -27
+motor: 0, speed: 19.68, init_spd: 53, error: -5
+motor: 0, speed: 15.87, init_spd: 48, error: 6
+motor: 0, speed: 16.51, init_spd: 54, error: 7
+motor: 0, speed: 19.05, init_spd: 61, error: 3
+motor: 0, speed: 20.32, init_spd: 64, error: 0
+motor: 0, speed: 20.95, init_spd: 64, error: -1
+motor: 0, speed: 20.32, init_spd: 63, error: -1
+motor: 0, speed: 19.68, init_spd: 62, error: 0
+_________________________________
+_________________________________
+motor: 0, point5_spd: 62
+_________________________________
+_________________________________
+motor: 1, speed: 30.47, init_spd: 140, error: -20
+motor: 1, speed: 42.54, init_spd: 120, error: -40
+motor: 1, speed: 33.01, init_spd: 80, error: -33
+motor: 1, speed: 20.32, init_spd: 47, error: -8
+motor: 1, speed: 13.97, init_spd: 39, error: 8
+motor: 1, speed: 13.97, init_spd: 47, error: 12
+motor: 1, speed: 17.78, init_spd: 59, error: 6
+motor: 1, speed: 20.32, init_spd: 65, error: 0
+motor: 1, speed: 20.95, init_spd: 65, error: -1
+motor: 1, speed: 20.95, init_spd: 64, error: -1
+motor: 1, speed: 20.32, init_spd: 63, error: -1
+_________________________________
+_________________________________
+motor: 1, point5_spd: 62
+_________________________________
+_________________________________
+motor: 2, speed: 31.11, init_spd: 140, error: -22
+motor: 2, speed: 40.00, init_spd: 118, error: -36
+motor: 2, speed: 31.11, init_spd: 82, error: -28
+motor: 2, speed: 20.32, init_spd: 54, error: -7
+motor: 2, speed: 15.24, init_spd: 47, error: 6
+motor: 2, speed: 15.24, init_spd: 53, error: 10
+motor: 2, speed: 18.41, init_spd: 63, error: 5
+motor: 2, speed: 20.32, init_spd: 68, error: 0
+motor: 2, speed: 20.95, init_spd: 68, error: -1
+motor: 2, speed: 20.95, init_spd: 67, error: -1
+motor: 2, speed: 20.32, init_spd: 66, error: -1
+_________________________________
+_________________________________
+motor: 2, point5_spd: 65
+_________________________________
+_________________________________
+motor: 3, speed: 31.74, init_spd: 140, error: -23
+motor: 3, speed: 41.27, init_spd: 117, error: -38
+motor: 3, speed: 30.47, init_spd: 79, error: -28
+motor: 3, speed: 19.68, init_spd: 51, error: -5
+motor: 3, speed: 15.24, init_spd: 46, error: 7
+motor: 3, speed: 16.51, init_spd: 53, error: 8
+motor: 3, speed: 19.05, init_spd: 61, error: 3
+motor: 3, speed: 20.32, init_spd: 64, error: 0
+motor: 3, speed: 20.95, init_spd: 64, error: -1
+motor: 3, speed: 20.32, init_spd: 63, error: -1
+motor: 3, speed: 20.95, init_spd: 62, error: -1
+_________________________________
+_________________________________
+motor: 3, point5_spd: 61
+_________________________________
+_________________________________
+motor: 0, speed: 32.38, init_spd: 140, error: -44
+motor: 0, speed: 35.55, init_spd: 96, error: -51
+motor: 0, speed: 19.05, init_spd: 45, error: -28
+motor: 0, speed: 7.62, init_spd: 17, error: -1
+motor: 0, speed: 3.81, init_spd: 16, error: 10
+motor: 0, speed: 6.98, init_spd: 26, error: 8
+motor: 0, speed: 9.52, init_spd: 34, error: 2
+motor: 0, speed: 10.79, init_spd: 36, error: 0
+motor: 0, speed: 10.79, init_spd: 36, error: -1
+motor: 0, speed: 10.79, init_spd: 35, error: -1
+motor: 0, speed: 10.16, init_spd: 34, error: 0
+_________________________________
+_________________________________
+motor: 0, point5_spd: 34
+_________________________________
+_________________________________
+motor: 1, speed: 31.11, init_spd: 140, error: -42
+motor: 1, speed: 37.46, init_spd: 98, error: -53
+motor: 1, speed: 22.22, init_spd: 45, error: -34
+motor: 1, speed: 7.62, init_spd: 11, error: -3
+motor: 1, speed: 1.90, init_spd: 8, error: 13
+motor: 1, speed: 3.81, init_spd: 21, error: 14
+motor: 1, speed: 8.25, init_spd: 35, error: 6
+motor: 1, speed: 12.06, init_spd: 41, error: -2
+motor: 1, speed: 12.06, init_spd: 39, error: -4
+motor: 1, speed: 11.43, init_spd: 35, error: -3
+motor: 1, speed: 10.16, init_spd: 32, error: -1
+_________________________________
+_________________________________
+motor: 1, point5_spd: 31
+_________________________________
+_________________________________
+motor: 2, speed: 29.84, init_spd: 140, error: -39
+motor: 2, speed: 36.19, init_spd: 101, error: -51
+motor: 2, speed: 21.59, init_spd: 50, error: -33
+motor: 2, speed: 8.89, init_spd: 17, error: -5
+motor: 2, speed: 2.54, init_spd: 12, error: 11
+motor: 2, speed: 4.44, init_spd: 23, error: 12
+motor: 2, speed: 8.25, init_spd: 35, error: 5
+motor: 2, speed: 11.43, init_spd: 40, error: -1
+motor: 2, speed: 11.43, init_spd: 39, error: -2
+motor: 2, speed: 10.79, init_spd: 37, error: -2
+motor: 2, speed: 10.16, init_spd: 35, error: 0
+_________________________________
+_________________________________
+motor: 2, point5_spd: 35
+_________________________________
+_________________________________
+motor: 3, speed: 31.74, init_spd: 140, error: -43
+motor: 3, speed: 37.46, init_spd: 97, error: -54
+motor: 3, speed: 19.68, init_spd: 43, error: -30
+motor: 3, speed: 6.35, init_spd: 13, error: 0
+motor: 3, speed: 3.17, init_spd: 13, error: 12
+motor: 3, speed: 5.71, init_spd: 25, error: 10
+motor: 3, speed: 9.52, init_spd: 35, error: 3
+motor: 3, speed: 11.43, init_spd: 38, error: -1
+motor: 3, speed: 11.43, init_spd: 37, error: -2
+motor: 3, speed: 11.43, init_spd: 35, error: -2
+motor: 3, speed: 10.16, init_spd: 33, error: -1
+_________________________________
+_________________________________
+motor: 3, point5_spd: 32
+_________________________________
