@@ -1,4 +1,4 @@
-# diy_mobile_robot
+# Frame Assembly instructions
 
 ## Steps to build robot base and frame
 __Screw Drivers and Hex Keys__<br/>
