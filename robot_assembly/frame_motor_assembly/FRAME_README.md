@@ -2,7 +2,7 @@
 
 ## Steps to build robot base and frame
 __Screw Drivers and Hex Keys__<br/>
-![screw drivers](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/robot_assembly/frame_motor_assembly/frame_assembly_photos/IMG_9034.JPEG?raw=true) <br/>
+![screw drivers](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/robot_assembly/frame_motor_assembly/frame_assembly_photos/IMG_9034.JPEG) <br/>
 The M4 socket head screws require a 3mm drive size. It is recommended to get the __Wera Tools 3mm Ball-End Hex-Plus L-Key__ (SKU: 5027104001). This will make building much easier, since it can access screws in awkward places. The drivers I used are pictured below.
 
 __Step 1: Build the base of the frame:__<br/>
