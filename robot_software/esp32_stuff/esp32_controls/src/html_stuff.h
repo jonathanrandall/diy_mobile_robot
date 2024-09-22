@@ -133,8 +133,8 @@ const char index_html[] PROGMEM = R"rawliteral(
     <button type="button" onclick="readText('angle')" ontouchstart="readText('angle')">Read Text</button>
   </form><br>
     
-      <img src="http://rpi5.local:8000/stream.mpg"  id="rt_img">
-      <img src="http://192.168.1.129:81/stream" id = "lft_img">
+      <img src="http://rpi5.local:8000/"  id="rt_img">
+      
     
   <p><span id="textSliderValue">%SLIDERVALUE%</span></p>
   <p><input type="range" onchange="updateSliderPWM(this)" id="pwmSlider" min="0" max="255" value="%SLIDERVALUE%" step="1" class="slider"></p>
