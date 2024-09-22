@@ -3,6 +3,10 @@ The bottom layer of the robot contains the motor controllers, the esp32 a buck c
 
 ## Steps to assemble bottom of robot
 
+__Bottom of the robot__<br/>
+![labeled bottom](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/robot_assembly/bottom_assembly/bottom_photos/IMG_0062_labeled.JPEG) <br/>
+The bottom of the robot contains motor controllers, motors, batteries, esp32, 5V & 12V regulators and terminal strips for power wires.
+
 
 
 
