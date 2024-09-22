@@ -2,12 +2,12 @@
 
 ## Steps to build robot base and frame
 __Screw Drivers and Hex Keys__<br/>
-![screw drivers](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/photos/IMG_9034.JPEG?raw=true) <br/>
+![screw drivers](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/robot_assembly/frame_motor_assembly/frame_assembly_photos/IMG_9034.JPEG?raw=true) <br/>
 The M4 socket head screws require a 3mm drive size. It is recommended to get the __Wera Tools 3mm Ball-End Hex-Plus L-Key__ (SKU: 5027104001). This will make building much easier, since it can access screws in awkward places. The drivers I used are pictured below.
 
 __Step 1: Build the base of the frame:__<br/>
 Note: robot upside down in picutre, so base is at the top. <br/>
-![robot frame](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/photos/IMG_9070.jpeg)<br/>
+![robot frame](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/robot_assembly/frame_motor_assembly/frame_assembly_photos/IMG_9070.jpeg)<br/>
 <ins>parts list for base</ins>
 * 2 X 432mm 1120 Series U-Channel (SKU: 1120-0017-0432)
 * 2 X 528mm 1120 Series U-Chaneel (SKU: 1120-0021-0528)
@@ -25,19 +25,19 @@ Note: robot upside down in picutre, so base is at the top. <br/>
 
 <ins>Assembly of base</ins>
 1. Attach the quadblocks to the end of the shorter U-channels (432mm) with the 11mm screws. Mounting the quadblocks on the shorter channels will result in the base being a square. Each channel is 48mm wide, so the base will be (432 +48 +48) = 528mm. Note, you can use different sized U-Channels, depending on what you need. I've chosen theses sizes to bring it into line with the Stanford Mobile Aloha robot. This build is on the wider end of what I would normally do.<br/> 
-![Quad Blocks](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/photos/IMG_9015.JPEG?raw=true)
+![Quad Blocks](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/robot_assembly/frame_motor_assembly/frame_assembly_photos/IMG_9015.JPEG?raw=true)
 2. Attach the two 432mm at right angles with the 528mm channels, using the 8mm screws to connect, to make a square shape (see picture).<br/>
-![channels and motor](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/photos/IMG_9023.JPEG?raw=true)
+![channels and motor](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/robot_assembly/frame_motor_assembly/frame_assembly_photos/IMG_9023.JPEG?raw=true)
 3. Attach the motors to the side of the frame. You can 10mm to 12mm screws for this. I've attached mine to the fourth hole down. There are lots of diagrams on the gobilda page for attaching the motors to channel. Make sure the motor's power wires and encoder plug are facing upwards, so they are easy to access from the top. <br/>
-![motor attach](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/photos/IMG_9020.JPEG?raw=true)
+![motor attach](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/robot_assembly/frame_motor_assembly/frame_assembly_photos/IMG_9020.JPEG?raw=true)
 4. Place the bearing,spacer and hyperhub on the end of the motor shaft and push down so that everything is nice and snug. Tighten the pinch screws on the hyperhub. Don't place the wheels on yet. They will get in the way.<br/>
-![bearing attach](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/photos/IMG_9021.JPEG?raw=true)
+![bearing attach](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/robot_assembly/frame_motor_assembly/frame_assembly_photos/IMG_9021.JPEG?raw=true)
 5. Attach the goRail to the corners of the base with the 12mm M4 screws (or 10mm is ok as well), so they are standing verticle. They have threaded holes, which will line up with the holes on the U-Channel. When you attach a goRail, do not tighten the screws until all four have been placed, otherwise you risk cross-threading. I'm using 624mm goRail. You can use up to 1200mm. You can adjust the height of the goRail without changing anything else. If you adjust the dimensions of the U-Channel, the grid plates will also need to be adjusted.<br/>
-![gorail attach](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/photos/IMG_9032.JPEG?raw=true) ![gorail](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/photos/IMG_9039.JPEG?raw=true)
+![gorail attach](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/robot_assembly/frame_motor_assembly/frame_assembly_photos/IMG_9032.JPEG?raw=true) ![gorail](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/robot_assembly/frame_motor_assembly/frame_assembly_photos/IMG_9039.JPEG?raw=true)
 6. Attach the L-Brackets, with the 6mm M4 screws, to each of the U-Channels that the motors are on. They should be attached off centre becasue this is where you are going to mount the grid plate.<br/>
-![L brackets attach](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/photos/IMG_9042.JPEG?raw=true)
+![L brackets attach](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/robot_assembly/frame_motor_assembly/frame_assembly_photos/IMG_9042.JPEG?raw=true)
 7. Mount the grid plate on the L-Brackets with the 6mm M4 screws.<br/>
-![grid plate attach](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/photos/IMG_9068.JPEG?raw=true)
+![grid plate attach](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/robot_assembly/frame_motor_assembly/frame_assembly_photos/IMG_9068.JPEG?raw=true)
 
 __Step 2: Build the top of the frame:__
 
@@ -50,7 +50,7 @@ __Step 2: Build the top of the frame:__
 <ins>Assembly of top of the frame</ins>
 1. Attach the 4 L-Brackets to the edge of each of the U-Channels, so that the U-Channel is like an upside down U, and the bracket is flush with the top (see picture). Makes sure the L-Brackets are spaced, so that you can attach the grid plates. Don't put any in the middle of the channel.
 2. Once you have all L-brackets attached line up the two U-channels with the brackets facing each other and put the grid plates on, so that the two U-Channels are held together with the grid plates. Make sure the grid plates are attached along the short edge (see pictures). So the long edge is connecting the two U-Channels. Everything is measured out so it fits perfectly on the top of the robot.<br/>
-![top grid](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/photos/IMG_9049.JPEG?raw=true) ![top grid 2](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/photos/IMG_9050.JPEG?raw=true)
+![top grid](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/robot_assembly/frame_motor_assembly/frame_assembly_photos/IMG_9049.JPEG?raw=true) ![top grid 2](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/robot_assembly/frame_motor_assembly/frame_assembly_photos/IMG_9050.JPEG?raw=true)
 
 __Step 3: Attach the top of the frame:__
 
@@ -60,7 +60,7 @@ __Step 3: Attach the top of the frame:__
 <ins>Finish assembly</ins?
 1. Line up the threaded holes in the GoRail with the holes in the corner of the top of the frame.
 2. Fix on with the chosen screws.<br/>
-![channels and motor](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/photos/IMG_9054.JPEG?raw=true)
+![channels and motor](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/robot_assembly/frame_motor_assembly/frame_assembly_photos/IMG_9054.JPEG?raw=true)
 
 __Step 4: Attach the wheels:__
 
@@ -73,7 +73,7 @@ Put the wheels on last, otherwise they get in the way when you're trying to scre
 
 <ins>Assembly of wheels</ins>
 1. Screw onto hyperhubs with 11mm screws and washers.<br/>
-![channels and motor](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/photos/IMG_9071.JPEG?raw=true)
+![channels and motor](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/robot_assembly/frame_motor_assembly/frame_assembly_photos/IMG_9071.JPEG?raw=true)
 
 
 
