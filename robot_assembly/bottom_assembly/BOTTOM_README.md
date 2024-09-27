@@ -9,7 +9,5 @@ The bottom of the robot contains motor controllers, motors, batteries, esp32, 5V
 
 1. Screw on the PCB and the motor controllers
 ![motor controller and pcb](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/project_photos/bottom_pcb_stuck2.JPEG) <br/>
-
-
-
-
+2. stuff
+3. stuff
