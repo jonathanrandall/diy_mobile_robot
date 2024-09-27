@@ -5,7 +5,6 @@
 #include "soc/soc.h"
 #include "soc/rtc_cntl_reg.h"
 #include "encoders_stuff.h"
-#include "esp_now_stuff.h"
 #include "motor_ctrl_stuff.h"
 #include "OLED_stuff.h"
 #include "ssid_stuff.h"
