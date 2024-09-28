@@ -11,10 +11,12 @@ The bottom layer of the robot contains the motor controllers, the esp32 a buck c
 7. Four pin JST XH connectors. These are for the motor encoders. I used these from GoBilda. But you can use any you like. ![SKU: 3802-0910-0300](https://www.gobilda.com/encoder-cable-extension-4-pos-jst-xh-300mm-length/)
 8. Bullet extenders (female) to connect the motor to the motor encoders. I used these from GoBilda. ![SKU:3800-0013-0300](https://www.gobilda.com/3-5mm-bullet-lead-mh-fc-300mm-length/)
 9. Missile Switch. I used the missile switch to control the power to the motors because it's easy to turn off in a hurry, and i liked the look of it. I attached it with lego.
-10. Terminal strips X 4 (two for the top and two for the bottom). I used terminal strips with plastic cover and sixe connections. Six is the minimum. Make sure you get the ones with the plastic cover because if you drop a screw driver or something on it, you can cause a short.
-11. Fork lugs for connecting the wires to the terminal strips.
-12. Red and Black wires. Make sure you use red for positive and black for ground.
-13. Dupont femal to male jumper wires X 14. Two to connect the pcb to grnd and positive. And 12 to connect the motor controllers to the PCB.
+10. Buck converter for 5V. I'm using this one [here](https://www.amazon.com.au/gp/product/B08RBXCJCF/)
+11. High current buck converter for 12V. I'm using [this one](https://www.amazon.com.au/gp/product/B08KXTV6RH/), which outputs 20A max. 
+12. Terminal strips X 4 (two for the top and two for the bottom). I used terminal strips with plastic cover and sixe connections. Six is the minimum. Make sure you get the ones with the plastic cover because if you drop a screw driver or something on it, you can cause a short.
+13. Fork lugs for connecting the wires to the terminal strips.
+14. Red and Black wires. Make sure you use red for positive and black for ground.
+15. Dupont femal to male jumper wires X 14. Two to connect the pcb to grnd and positive. And 12 to connect the motor controllers to the PCB.
 
 ## Connection Tables
 
