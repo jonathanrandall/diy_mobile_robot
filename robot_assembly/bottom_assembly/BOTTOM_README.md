@@ -5,7 +5,7 @@ The bottom layer of the robot contains the motor controllers, the esp32 a buck c
 1. Cytron MD10C R3 motor controllers X 4. Or you can 2 X dual cytron dual motor drivers. I would recommend cytron if you want to use my code an wiring.
 2. PCB or bread board. I printed up a PCB. The gerber files and fritzing files should be attached to this repo. I got this done at ![PCBWay](https://www.pcbway.com/).
 3. ESP32: I'm using the 38 pin waveshare esp32. This has a thinner form factor than the ones you get off Amazon. My PCB design should also fit the fatter 38 pin esp32. I got it here ![https://www.waveshare.com/nodemcu-32s.htm](https://www.waveshare.com/nodemcu-32s.htm)
-4. Nylong stand offs. I would get two packs of these.
+4. Nylon stand offs. I would get two packs of these.
 5. 6S lipo battery or 2 X 3S lipo batteries. I used two 3S lip batteries in series. Also will need one 3S for the top.
 6. Battery mount. I 3D printed mine. But you can make one out of lego, since the grid plates on the gobilda system line up with the lego grids, it is easy to drill holes to attach.
 7. Four pin JST XH connectors. These are for the motor encoders. I used these from GoBilda. But you can use any you like. ![SKU: 3802-0910-0300](https://www.gobilda.com/encoder-cable-extension-4-pos-jst-xh-300mm-length/)
