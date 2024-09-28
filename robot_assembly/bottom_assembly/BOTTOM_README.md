@@ -8,7 +8,8 @@ The bottom layer of the robot contains the motor controllers, the esp32 a buck c
 4. Nylong stand offs. I would get two packs of these.
 5. 6S lipo battery or 2 X 3S lipo batteries. I used two 3S lip batteries in series.
 6. Battery mount. I 3D printed mine. But you can make one out of lego, since the grid plates on the gobilda system line up with the lego grids, it is easy to drill holes to attach.
-7. 
+7. Four pin JST XH connectors. These are for the motor encoders. I used these from GoBilda. But you can use any you like. ![SKU: 3802-0910-0300](https://www.gobilda.com/encoder-cable-extension-4-pos-jst-xh-300mm-length/)
+8. Bullet extenders (female) to connect the motor to the motor encoders. I used these from GoBilda. ![SKU:3800-0013-0300](https://www.gobilda.com/3-5mm-bullet-lead-mh-fc-300mm-length/)
 
 ## Steps to assemble bottom of robot
 
