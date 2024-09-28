@@ -1,13 +1,19 @@
 # Bottom of robot
 The bottom layer of the robot contains the motor controllers, the esp32 a buck converter set to 12V and a buck converter set to 5V
 
+## Parts list:
+1. Cytron MD10C R3 motor controllers X 4. Or you can 2 X dual cytron dual motor drivers. I would recommend cytron if you want to use my code an wiring.
+2. ESP32: I'm using the 38 pin waveshare esp32. This has a thinner form factor than the ones you get off Amazon. My PCB design should also fit the fatter 38 pin esp32. I got it here ![https://www.waveshare.com/nodemcu-32s.htm](https://www.waveshare.com/nodemcu-32s.htm)
+
 ## Steps to assemble bottom of robot
 
 __Bottom of the robot__<br/>
 ![labeled bottom](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/project_photos/IMG_0062_labeled.JPEG) <br/>
 The bottom of the robot contains motor controllers, motors, batteries, esp32, 5V & 12V regulators and terminal strips for power wires.
 
-1. Screw on the PCB and the motor controllers <br/>
-![motor controller and pcb](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/project_photos/bottom_pcb_stuck2.JPEG) <br/>
+1. Screw on the PCB and the motor controllers. I've screwed my motor controllers on diagonally because that was the only way I could get the standoffs to line up with the holes. Only the two diagonal standoffs are attached to the gridplate <br/>
 2. stuff
 3. stuff
+4. sst
+
+![motor controller and pcb](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/project_photos/bottom_pcb_stuck2.JPEG) <br/>
