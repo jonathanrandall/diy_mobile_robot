@@ -2,9 +2,7 @@
 The video instructions are here. <br/>
 
 ## Step one: Assemble the Frame and Motors.
-# Frame Assembly instructions
 
-## Steps to build robot base and frame
 __Screw Drivers and Hex Keys__<br/>
 ![screw drivers](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/project_photos/IMG_9034.JPEG) <br/>
 The M4 socket head screws require a 3mm drive size. It is recommended to get the __Wera Tools 3mm Ball-End Hex-Plus L-Key__ (SKU: 5027104001). This will make building much easier, since it can access screws in awkward places. The drivers I used are pictured below.
@@ -78,6 +76,9 @@ Put the wheels on last, otherwise they get in the way when you're trying to scre
 <ins>Assembly of wheels</ins>
 1. Screw onto hyperhubs with 11mm screws and washers.<br/>
 ![channels and motor](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/project_photos/IMG_9071.JPEG)<br/>
+
+# Step Two: Assemble the Bottom Layer to get the robot driving
+(Note: Also, need top battery for this)
 
 __All parts used are listed in various directories__
 
