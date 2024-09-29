@@ -121,10 +121,11 @@ __Bottom of the robot:__ Connect all parts as shown in the picture. I've screwed
 
 # Assemble the Top of the robot
 
-The top of the robot contans the raspberry pi 5, stereo camera and robot arms. Assemble as shown in the picutres. 
+The top of the robot contans the raspberry pi 5, stereo camera and robot arms. Assemble as shown in the picutres.<br/> 
+![Connecctions](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/project_photos/top_connections.png) <br/>
 ![This is the platform](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/project_photos/top_cam_platform.JPEG) <br/>
 ![this is the top platform](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/project_photos/top_layour.JPEG?raw=true) <br/>
-![Connecctions](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/project_photos/top_connections.png)
+
 
 
 ### Parts list, electronics and robotics:
