@@ -4,6 +4,7 @@ The regression used to calibrate the stereo camera is in the file points_regress
 The fritzing diagram for the pcb is in esp32_motor_control.fzz <br/>
 The gerber files for the pcb are in gerber_esp32_motor_control <br/>
 The code is in [robot_software](https://github.com/jonathanrandall/diy_mobile_robot/tree/main/robot_software). <br/>
+Robot software depends on [cvzone library](https://github.com/cvzone/cvzone).
 
 
 ![the robot](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/project_photos/robot_complete.JPEG)
