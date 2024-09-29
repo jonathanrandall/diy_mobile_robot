@@ -9,7 +9,7 @@ The code is in [robot_software](https://github.com/jonathanrandall/diy_mobile_ro
 ![the robot](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/project_photos/robot_complete.JPEG)
 
 
-## Step one: Assemble the Frame and Motors.
+# Assemble the Frame and Motors.
 
 __Screw Drivers and Hex Keys__<br/>
 ![screw drivers](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/project_photos/IMG_9034.JPEG) <br/>
@@ -85,13 +85,11 @@ Put the wheels on last, otherwise they get in the way when you're trying to scre
 1. Screw onto hyperhubs with 11mm screws and washers.<br/>
 ![channels and motor](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/project_photos/IMG_9071.JPEG)<br/>
 
-# Step Two: Assemble the Bottom Layer to get the robot driving
+# Assemble the Bottom Layer to get the robot driving
 (Note: Also, need top battery for this)
-
-# Bottom of robot
 The bottom layer of the robot contains the motor controllers, the esp32 a buck converter set to 12V and a buck converter set to 5V
 
-## Parts list:
+### Parts list:
 1. Cytron MD10C R3 motor controllers X 4. Or you can 2 X dual cytron dual motor drivers. I would recommend cytron if you want to use my code an wiring.
 2. PCB or bread board. I printed up a PCB. The gerber files and fritzing files should be attached to this repo. I got this done at ![PCBWay](https://www.pcbway.com/).
 3. ESP32: I'm using the 38 pin waveshare esp32. This has a thinner form factor than the ones you get off Amazon. My PCB design should also fit the fatter 38 pin esp32. I got it here ![https://www.waveshare.com/nodemcu-32s.htm](https://www.waveshare.com/nodemcu-32s.htm)
@@ -121,15 +119,15 @@ __Bottom of the robot:__ Connect all parts as shown in the picture. I've screwed
 ![motor controller and pcb](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/project_photos/bottom_pcb_stuck2.JPEG) <br/>
 
 
-# Step three: Assemble the Top of the robot
-# Top assembly instructions
+# Assemble the Top of the robot
+
 The top of the robot contans the raspberry pi 5, stereo camera and robot arms. Assemble as shown in the picutres. 
 ![This is the platform](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/project_photos/top_cam_platform.JPEG) <br/>
 ![this is the top platform](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/project_photos/top_layour.JPEG?raw=true) <br/>
 ![Connecctions](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/project_photos/top_connections.png)
 
 
-## Parts list, electronics and robotics:
+### Parts list, electronics and robotics:
 1. [__Hiwonder XARM esp32 X 2__](https://www.hiwonder.com/products/xarm-esp32)
 2. __Raspberry pi 5.__
 3. Raspberry pi 5 mount. I 3D printed [this one](https://www.printables.com/model/253933-simple-raspberry-pi-mount).
