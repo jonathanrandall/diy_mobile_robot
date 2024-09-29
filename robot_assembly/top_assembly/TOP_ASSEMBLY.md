@@ -1,6 +1,7 @@
 # Top assembly instructions
-The top of the robot contans the raspberry pi 5, stereo camera and robot arms.
-
+The top of the robot contans the raspberry pi 5, stereo camera and robot arms. Assemble as shown in the picutres. 
+![This is the platform](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/project_photos/top_cam_platform.JPEG) <br/>
+![this is the top platform](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/project_photos/top_layour.JPEG?raw=true)
 
 
 ## Parts list, electronics and robotics:
@@ -20,8 +21,8 @@ The top of the robot contans the raspberry pi 5, stereo camera and robot arms.
 14. Male to male jumpber cables for connecting 8V buck converter to robot arm.
 
 ## structure parts:
+
 __these parts will be used to mount the stereo camera an raspberry pi__
-![This is the platform](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/project_photos/top_cam_platform.JPEG)
 1. [1109 Series goRAIL](https://www.gobilda.com/1109-series-gorail-336mm-length/) (336mm Length). This is the neck (SKU: 1109-0024-0336).
 2. [1116 Series Grid Plate](https://www.gobilda.com/1116-series-grid-plate-29-x-53-hole-232-x-424mm/) (29 x 53 Hole, 232 x 424mm). This is the platform to mount the pi on.
 3. [1113 Series L-Channel](https://www.gobilda.com/1113-series-l-channel-1-hole-48mm-length/) (1 Hole, 48mm Length). This will connect the perf board that the camera is on to the grip plate to it is at right angles (SKU: 1113-0001-0048).
