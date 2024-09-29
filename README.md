@@ -1,5 +1,5 @@
 # DIY Mobile Robotics Platform:
-The video instructions are [here]([https://youtu.be/9S9H8HX5MNA](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/project_photos/youtube_screenshot.png?raw=true)). <br/>
+The video instructions are [here](https://youtu.be/9S9H8HX5MNA). <br/>
 The regression used to calibrate the stereo camera is in the file points_regression.ods. <br/>
 The fritzing diagram for the pcb is in esp32_motor_control.fzz <br/>
 The gerber files for the pcb are in gerber_esp32_motor_control <br/>
