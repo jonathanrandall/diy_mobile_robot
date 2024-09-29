@@ -114,14 +114,9 @@ The bottom layer of the robot contains the motor controllers, the esp32 a buck c
 
 ## Steps to assemble bottom of robot
 
-__Bottom of the robot__<br/>
+__Bottom of the robot:__ Connect all parts as shown in the picture. I've screwed my motor controllers on diagonally because that was the only way I could get the standoffs to line up with the holes. Only the two diagonal standoffs are attached to the gridplate. And make connections as in above tables <br/>
 ![labeled bottom](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/project_photos/IMG_0062_labeled.JPEG) <br/>
-The bottom of the robot contains motor controllers, motors, batteries, esp32, 5V & 12V regulators and terminal strips for power wires.
 
-1. Screw on the PCB and the motor controllers. I've screwed my motor controllers on diagonally because that was the only way I could get the standoffs to line up with the holes. Only the two diagonal standoffs are attached to the gridplate <br/>
-2. stuff
-3. stuff
-4. sst
 
 ![motor controller and pcb](https://github.com/jonathanrandall/diy_mobile_robot/blob/main/project_photos/bottom_pcb_stuck2.JPEG) <br/>
 
